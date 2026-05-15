@@ -1,5 +1,26 @@
 # Project 3: Spots
 
+An image sharing site.
+
+## Description
+
+This project is of an image sharing website, where the users can like posts, perssonalize their profile and their content they wish to share with others.
+
+## Tech Stack
+
+-HTML
+-CSS
+-Responsive Design
+
+## Deployment
+
+This webpage is deployed to Github Pages
+
+-Deployment Link:****\*\*\*\*****\_\_****\*\*\*\*****
+pull link and paste here
+link to my video here
+video could be from google drive
+
 ### Overview
 
 - Intro
@@ -19,5 +40,3 @@ This project is made so all the elements are displayed correctly on popular scre
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
 Good luck and have fun!
-
-I added something!
