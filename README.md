@@ -4,7 +4,7 @@ An image sharing site.
 
 ## Description
 
-This project is of an image sharing website, where the users can like posts, perssonalize their profile and their content they wish to share with others.
+This project is an image sharing website, where the users can like posts, perssonalize their profile and the content they wish to share with others. It is able to be used on popular screen sizes. We used Figma for this project.
 
 ## Tech Stack
 
