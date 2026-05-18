@@ -16,7 +16,8 @@ This project is of an image sharing website, where the users can like posts, per
 
 This webpage is deployed to Github Pages
 
--Deployment Link:****\*\*\*\*****\_\_****\*\*\*\*****
+- [Deployment Link](https://bonnitac.github.io/se_project_spots/)
+
 pull link and paste here
 link to my video here
 video could be from google drive
