@@ -17,10 +17,12 @@ This project is an image sharing website, where the users can like posts, persso
 This webpage is deployed to Github Pages
 
 - [Deployment Link](https://bonnitac.github.io/se_project_spots/)
+  gi
+  pull link and paste here
+  link to my video here
+  video could be from google drive
 
-pull link and paste here
-link to my video here
-video could be from google drive
+- [Pitch video](https://www.loom.com/share/192f2e7b7ac5429ba9a9f5a6f3c6598a)
 
 ### Overview
 
