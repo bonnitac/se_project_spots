@@ -22,6 +22,8 @@ This webpage is deployed to Github Pages
   link to my video here
   video could be from google drive
 
+FirstName_LastName_ProjectPitch_ProjectTitle
+
 - [Pitch video](https://www.loom.com/share/192f2e7b7ac5429ba9a9f5a6f3c6598a)
 
 ### Overview
