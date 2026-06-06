@@ -91,6 +91,9 @@
 }
 
 @media screen and (max-width: 627px) {
+  .profile__edit-btn {
+    margin: 0 auto;
+  }
   .profile {
     flex-direction: column;
     max-width: 288px;
